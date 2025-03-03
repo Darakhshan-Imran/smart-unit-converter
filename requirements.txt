@@ -4,4 +4,6 @@ speechrecognition
 pydub
 pint
 pyttsx3
-os
+is
+gtts
+base64

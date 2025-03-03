@@ -176,6 +176,15 @@ custom_css = """
         color: black !important;
     }
 
+/* Prevent Text Color Change on Click */
+    .stButton > button:active,
+    .stButton > button:focus {
+        color: black !important;
+        background-color: #d96e00 !important; /* Slightly darker orange for click effect */
+        outline: none !important;
+        box-shadow: inset 2px 2px 6px rgba(0, 0, 0, 0.4);
+    }
+
 
     /* Success & Error Messages */
     .stSuccess, .stError {
