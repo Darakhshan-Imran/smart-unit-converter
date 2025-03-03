@@ -2,3 +2,4 @@ streamlit
 whisper
 speechrecognition
 pydub
+pint
