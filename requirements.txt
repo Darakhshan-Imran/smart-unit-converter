@@ -3,7 +3,5 @@ whisper
 speechrecognition
 pydub
 pint
-pyttsx3
-is
 gtts
 base64
