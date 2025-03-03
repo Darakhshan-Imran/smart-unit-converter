@@ -4,4 +4,3 @@ speechrecognition
 pydub
 pint
 gtts
-base64
