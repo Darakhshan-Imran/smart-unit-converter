@@ -3,3 +3,5 @@ whisper
 speechrecognition
 pydub
 pint
+pyttsx3
+os
